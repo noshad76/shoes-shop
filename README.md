@@ -1,17 +1,7 @@
-# flutter_application_5
+# flutter shoes shop Ui
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## screenshots
+![image](https://github.com/noshad76/shoes-shop/assets/118007681/f99ca0af-71c2-4368-9f2e-def506468368)![image](https://github.com/noshad76/shoes-shop/assets/118007681/065ea59d-8338-46f0-9850-0a6546458436)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# shoes-shop
