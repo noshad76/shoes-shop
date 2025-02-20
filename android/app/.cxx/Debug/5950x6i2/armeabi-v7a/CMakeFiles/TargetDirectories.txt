@@ -1,0 +1,2 @@
+C:/Users/Amir Hosein/Documents/GitHub/shoes-shop/android/app/.cxx/Debug/5950x6i2/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Amir Hosein/Documents/GitHub/shoes-shop/android/app/.cxx/Debug/5950x6i2/armeabi-v7a/CMakeFiles/rebuild_cache.dir
